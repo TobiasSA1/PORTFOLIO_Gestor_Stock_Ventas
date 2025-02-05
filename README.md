@@ -1,6 +1,10 @@
 📌 Proyecto 1: Sistema de Gestión de Ventas y Stock (FullStack)
+
+
 💡 Descripción:
 Este sistema permitirá la gestión de productos, ventas y usuarios con roles diferenciados (Administrador, Vendedor y Cliente), integrando un backend robusto con ASP.NET y un frontend moderno.
+
+
 
 🛠 Tecnologías Utilizadas
 🔹 Backend (API RESTful con ASP.NET Core 8)
@@ -14,6 +18,8 @@ Este sistema permitirá la gestión de productos, ventas y usuarios con roles di
 ✅ RabbitMQ o Azure Service Bus para comunicación entre servicios
 ✅ Logging con Serilog + ELK Stack
 ✅ Pruebas unitarias e integración con xUnit y Moq
+
+
 
 🔹 Frontend
 ✅ Blazor Server/WebAssembly (Opcional: Angular o React)
